@@ -1,6 +1,7 @@
 [1]
 usd,0
-BTC,-0.150730602,localbitcoins
+BTC,0.150730602,localbitcoins
 BTC,0.02123452,c-cex
-BTC,0.05,yobit
+BTC,0.00000155,yobit
+VTC,77.22218339,yobit
 BQ,1996,c-cex
