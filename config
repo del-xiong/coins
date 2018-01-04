@@ -11,7 +11,7 @@ VTC,125,yobit
 BQ,19960,c-cex
 BCD,164,icobi
 XP,20000,coinexchange,0,0.002248,experience-points
-B3,332350,coinexchange,0,0.000150,b3coin
+B3,332350,coinexchange,0,0.0002799,b3coin
 BDL,100,coinexchange,0,0.12,bitdeal
 MOON,100000,coinexchange,0,0.00045,mooncoin
 ELIX,32,coinexchange,0,0.99,elixir
